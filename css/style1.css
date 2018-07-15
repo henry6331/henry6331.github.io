@@ -109,28 +109,28 @@
 .cool-tag-cloud .opensans {font-family:"Open Sans", Helvetica, Arial!important}
 
 .cool-tag-cloud .ctcdefault .ctcleft a {
-	background: url(images/default-left.png) no-repeat!important;  
+	background: url() no-repeat!important;  
 }
 .cool-tag-cloud .ctcdefault .ctcright a {
-	background: url(images/default-right.png) no-repeat!important;  
+	background: url() no-repeat!important;  
 }
 .cool-tag-cloud  .ctcdefault .ctcleft a:after { 
-	background: url(images/default-left.png) top right no-repeat!important; 
+	background: url() top right no-repeat!important; 
 }
 .cool-tag-cloud  .ctcdefault .ctcright a:after { 
-	background: url(images/default-right.png) top right no-repeat!important; 
+	background: url() top right no-repeat!important; 
 }
 .cool-tag-cloud .ctcdefault .ctcleft a:hover {  
-	background: url(images/default-left.png) bottom left no-repeat!important;  
+	background: url() bottom left no-repeat!important;  
 }
 .cool-tag-cloud .ctcdefault .ctcright a:hover {  
-	background: url(images/default-right.png) bottom left no-repeat!important;  
+	background: url() bottom left no-repeat!important;  
 }
 .cool-tag-cloud .ctcdefault .ctcleft a:hover:after {
-	background: url(images/default-left.png) bottom right no-repeat!important; 
+	background: url() bottom right no-repeat!important; 
 }
 .cool-tag-cloud .ctcdefault .ctcright a:hover:after {
-	background: url(images/default-right.png) bottom right no-repeat!important; 
+	background: url() bottom right no-repeat!important; 
 }
 .cool-tag-cloud .ctcdefault .ctcleft a:hover, .cool-tag-cloud .ctcdefault .ctcright a:hover ,
 .cool-tag-cloud .ctcdefault .ctcright a, .cool-tag-cloud .ctcdefault .ctcleft a,
@@ -139,28 +139,28 @@
 }  
 
 .cool-tag-cloud .ctcsilver .ctcleft a {
-	background: url(images/silver-left.png) no-repeat!important;  
+	background: url() no-repeat!important;  
 }
 .cool-tag-cloud .ctcsilver .ctcright a {
-	background: url(images/silver-right.png) no-repeat!important;  
+	background: url() no-repeat!important;  
 }
 .cool-tag-cloud  .ctcsilver .ctcleft a:after { 
-	background: url(images/silver-left.png) top right no-repeat!important; 
+	background: url() top right no-repeat!important; 
 }
 .cool-tag-cloud  .ctcsilver .ctcright a:after { 
-	background: url(images/silver-right.png) top right no-repeat!important; 
+	background: url() top right no-repeat!important; 
 }
 .cool-tag-cloud .ctcsilver .ctcleft a:hover {  
-	background: url(images/silver-left.png) bottom left no-repeat!important;  
+	background: url() bottom left no-repeat!important;  
 }
 .cool-tag-cloud .ctcsilver .ctcright a:hover {  
-	background: url(images/silver-right.png) bottom left no-repeat!important;  
+	background: url() bottom left no-repeat!important;  
 }
 .cool-tag-cloud .ctcsilver .ctcleft a:hover:after {
-	background: url(images/silver-left.png) bottom right no-repeat!important; 
+	background: url() bottom right no-repeat!important; 
 }
 .cool-tag-cloud .ctcsilver .ctcright a:hover:after {
-	background: url(images/silver-right.png) bottom right no-repeat!important; 
+	background: url() bottom right no-repeat!important; 
 }
 .cool-tag-cloud .ctcsilver .ctcleft a:hover, .cool-tag-cloud .ctcsilver .ctcright a:hover ,
 .cool-tag-cloud .ctcsilver .ctcright a, .cool-tag-cloud .ctcsilver .ctcleft a,
@@ -169,28 +169,28 @@
 }  
 
 .cool-tag-cloud .ctcgreen .ctcleft a {
-	background: url(images/green-left.png) no-repeat!important;  
+	background: url() no-repeat!important;  
 }
 .cool-tag-cloud .ctcgreen .ctcright a {
-	background: url(images/green-right.png) no-repeat!important;  
+	background: url() no-repeat!important;  
 }
 .cool-tag-cloud  .ctcgreen .ctcleft a:after { 
-	background: url(images/green-left.png) top right no-repeat!important; 
+	background: url() top right no-repeat!important; 
 }
 .cool-tag-cloud  .ctcgreen .ctcright a:after { 
-	background: url(images/green-right.png) top right no-repeat!important; 
+	background: url() top right no-repeat!important; 
 }
 .cool-tag-cloud .ctcgreen .ctcleft a:hover {  
-	background: url(images/green-left.png) bottom left no-repeat!important;  
+	background: url() bottom left no-repeat!important;  
 }
 .cool-tag-cloud .ctcgreen .ctcright a:hover {  
-	background: url(images/green-right.png) bottom left no-repeat!important;  
+	background: url() bottom left no-repeat!important;  
 }
 .cool-tag-cloud .ctcgreen .ctcleft a:hover:after {
-	background: url(images/green-left.png) bottom right no-repeat!important; 
+	background: url() bottom right no-repeat!important; 
 }
 .cool-tag-cloud .ctcgreen .ctcright a:hover:after {
-	background: url(images/green-right.png) bottom right no-repeat!important; 
+	background: url() bottom right no-repeat!important; 
 }
 .cool-tag-cloud .ctcgreen .ctcleft a:hover, .cool-tag-cloud .ctcgreen .ctcright a:hover ,
 .cool-tag-cloud .ctcgreen .ctcright a, .cool-tag-cloud .ctcgreen .ctcleft a,
@@ -199,28 +199,28 @@
 }  
 
 .cool-tag-cloud .ctcred .ctcleft a {
-	background: url(images/red-left.png) no-repeat!important;  
+	background: url() no-repeat!important;  
 }
 .cool-tag-cloud .ctcred .ctcright a {
-	background: url(images/red-right.png) no-repeat!important;  
+	background: url() no-repeat!important;  
 }
 .cool-tag-cloud  .ctcred .ctcleft a:after { 
-	background: url(images/red-left.png) top right no-repeat!important; 
+	background: url() top right no-repeat!important; 
 }
 .cool-tag-cloud  .ctcred .ctcright a:after { 
-	background: url(images/red-right.png) top right no-repeat!important; 
+	background: url() top right no-repeat!important; 
 }
 .cool-tag-cloud .ctcred .ctcleft a:hover {  
-	background: url(images/red-left.png) bottom left no-repeat!important;  
+	background: url() bottom left no-repeat!important;  
 }
 .cool-tag-cloud .ctcred .ctcright a:hover {  
-	background: url(images/red-right.png) bottom left no-repeat!important;  
+	background: url() bottom left no-repeat!important;  
 }
 .cool-tag-cloud .ctcred .ctcleft a:hover:after {
-	background: url(images/red-left.png) bottom right no-repeat!important; 
+	background: url() bottom right no-repeat!important; 
 }
 .cool-tag-cloud .ctcred .ctcright a:hover:after {
-	background: url(images/red-right.png) bottom right no-repeat!important; 
+	background: url() bottom right no-repeat!important; 
 }
 .cool-tag-cloud .ctcred .ctcleft a:hover, .cool-tag-cloud .ctcred .ctcright a:hover ,
 .cool-tag-cloud .ctcred .ctcright a, .cool-tag-cloud .ctcred .ctcleft a,
@@ -230,28 +230,28 @@
 
 
 .cool-tag-cloud .ctcblue .ctcleft a {
-	background: url(images/blue-left.png) no-repeat!important;  
+	background: url() no-repeat!important;  
 }
 .cool-tag-cloud .ctcblue .ctcright a {
-	background: url(images/blue-right.png) no-repeat!important;  
+	background: url() no-repeat!important;  
 }
 .cool-tag-cloud  .ctcblue .ctcleft a:after { 
-	background: url(images/blue-left.png) top right no-repeat!important; 
+	background: url() top right no-repeat!important; 
 }
 .cool-tag-cloud  .ctcblue .ctcright a:after { 
-	background: url(images/blue-right.png) top right no-repeat!important; 
+	background: url() top right no-repeat!important; 
 }
 .cool-tag-cloud .ctcblue .ctcleft a:hover {  
-	background: url(images/blue-left.png) bottom left no-repeat!important;  
+	background: url() bottom left no-repeat!important;  
 }
 .cool-tag-cloud .ctcblue .ctcright a:hover {  
-	background: url(images/blue-right.png) bottom left no-repeat!important;  
+	background: url() bottom left no-repeat!important;  
 }
 .cool-tag-cloud .ctcblue .ctcleft a:hover:after {
-	background: url(images/blue-left.png) bottom right no-repeat!important; 
+	background: url() bottom right no-repeat!important; 
 }
 .cool-tag-cloud .ctcblue .ctcright a:hover:after {
-	background: url(images/blue-right.png) bottom right no-repeat!important; 
+	background: url() bottom right no-repeat!important; 
 }
 .cool-tag-cloud .ctcblue .ctcleft a:hover, .cool-tag-cloud .ctcblue .ctcright a:hover ,
 .cool-tag-cloud .ctcblue .ctcright a, .cool-tag-cloud .ctcblue .ctcleft a,
@@ -260,28 +260,28 @@
 }  
 
 .cool-tag-cloud .ctcbrown .ctcleft a {
-	background: url(images/brown-left.png) no-repeat!important;  
+	background: url() no-repeat!important;  
 }
 .cool-tag-cloud .ctcbrown .ctcright a {
-	background: url(images/brown-right.png) no-repeat!important;  
+	background: url() no-repeat!important;  
 }
 .cool-tag-cloud  .ctcbrown .ctcleft a:after { 
-	background: url(images/brown-left.png) top right no-repeat!important; 
+	background: url() top right no-repeat!important; 
 }
 .cool-tag-cloud  .ctcbrown .ctcright a:after { 
-	background: url(images/brown-right.png) top right no-repeat!important; 
+	background: url() top right no-repeat!important; 
 }
 .cool-tag-cloud .ctcbrown .ctcleft a:hover {  
-	background: url(images/brown-left.png) bottom left no-repeat!important;  
+	background: url() bottom left no-repeat!important;  
 }
 .cool-tag-cloud .ctcbrown .ctcright a:hover {  
-	background: url(images/brown-right.png) bottom left no-repeat!important;  
+	background: url() bottom left no-repeat!important;  
 }
 .cool-tag-cloud .ctcbrown .ctcleft a:hover:after {
-	background: url(images/brown-left.png) bottom right no-repeat!important; 
+	background: url() bottom right no-repeat!important; 
 }
 .cool-tag-cloud .ctcbrown .ctcright a:hover:after {
-	background: url(images/brown-right.png) bottom right no-repeat!important; 
+	background: url() bottom right no-repeat!important; 
 }
 .cool-tag-cloud .ctcbrown .ctcleft a:hover, .cool-tag-cloud .ctcbrown .ctcright a:hover ,
 .cool-tag-cloud .ctcbrown .ctcright a, .cool-tag-cloud .ctcbrown .ctcleft a,
@@ -290,28 +290,28 @@
 }  
 
 .cool-tag-cloud .ctcpurple .ctcleft a {
-	background: url(images/purple-left.png) no-repeat!important;  
+	background: url() no-repeat!important;  
 }
 .cool-tag-cloud .ctcpurple .ctcright a {
-	background: url(images/purple-right.png) no-repeat!important;  
+	background: url() no-repeat!important;  
 }
 .cool-tag-cloud  .ctcpurple .ctcleft a:after { 
-	background: url(images/purple-left.png) top right no-repeat!important; 
+	background: url() top right no-repeat!important; 
 }
 .cool-tag-cloud  .ctcpurple .ctcright a:after { 
-	background: url(images/purple-right.png) top right no-repeat!important; 
+	background: url() top right no-repeat!important; 
 }
 .cool-tag-cloud .ctcpurple .ctcleft a:hover {  
-	background: url(images/purple-left.png) bottom left no-repeat!important;  
+	background: url() bottom left no-repeat!important;  
 }
 .cool-tag-cloud .ctcpurple .ctcright a:hover {  
-	background: url(images/purple-right.png) bottom left no-repeat!important;  
+	background: url() bottom left no-repeat!important;  
 }
 .cool-tag-cloud .ctcpurple .ctcleft a:hover:after {
-	background: url(images/purple-left.png) bottom right no-repeat!important; 
+	background: url() bottom right no-repeat!important; 
 }
 .cool-tag-cloud .ctcpurple .ctcright a:hover:after {
-	background: url(images/purple-right.png) bottom right no-repeat!important; 
+	background: url() bottom right no-repeat!important; 
 }
 .cool-tag-cloud .ctcpurple .ctcleft a:hover, .cool-tag-cloud .ctcpurple .ctcright a:hover ,
 .cool-tag-cloud .ctcpurple .ctcright a, .cool-tag-cloud .ctcpurple .ctcleft a,
@@ -320,28 +320,28 @@
 }  
 
 .cool-tag-cloud .ctccyan .ctcleft a {
-	background: url(images/cyan-left.png) no-repeat!important;  
+	background: url() no-repeat!important;  
 }
 .cool-tag-cloud .ctccyan .ctcright a {
-	background: url(images/cyan-right.png) no-repeat!important;  
+	background: url() no-repeat!important;  
 }
 .cool-tag-cloud  .ctccyan .ctcleft a:after { 
-	background: url(images/cyan-left.png) top right no-repeat!important; 
+	background: url() top right no-repeat!important; 
 }
 .cool-tag-cloud  .ctccyan .ctcright a:after { 
-	background: url(images/cyan-right.png) top right no-repeat!important; 
+	background: url() top right no-repeat!important; 
 }
 .cool-tag-cloud .ctccyan .ctcleft a:hover {  
-	background: url(images/cyan-left.png) bottom left no-repeat!important;  
+	background: url() bottom left no-repeat!important;  
 }
 .cool-tag-cloud .ctccyan .ctcright a:hover {  
-	background: url(images/cyan-right.png) bottom left no-repeat!important;  
+	background: url() bottom left no-repeat!important;  
 }
 .cool-tag-cloud .ctccyan .ctcleft a:hover:after {
-	background: url(images/cyan-left.png) bottom right no-repeat!important; 
+	background: url() bottom right no-repeat!important; 
 }
 .cool-tag-cloud .ctccyan .ctcright a:hover:after {
-	background: url(images/cyan-right.png) bottom right no-repeat!important; 
+	background: url() bottom right no-repeat!important; 
 }
 .cool-tag-cloud .ctccyan .ctcleft a:hover, .cool-tag-cloud .ctccyan .ctcright a:hover ,
 .cool-tag-cloud .ctccyan .ctcright a, .cool-tag-cloud .ctccyan .ctcleft a,
@@ -350,28 +350,28 @@
 }  
 
 .cool-tag-cloud .ctclime .ctcleft a {
-	background: url(images/lime-left.png) no-repeat!important;  
+	background: url() no-repeat!important;  
 }
 .cool-tag-cloud .ctclime .ctcright a {
-	background: url(images/lime-right.png) no-repeat!important;  
+	background: url() no-repeat!important;  
 }
 .cool-tag-cloud  .ctclime .ctcleft a:after { 
-	background: url(images/lime-left.png) top right no-repeat!important; 
+	background: url() top right no-repeat!important; 
 }
 .cool-tag-cloud  .ctclime .ctcright a:after { 
-	background: url(images/lime-right.png) top right no-repeat!important; 
+	background: url() top right no-repeat!important; 
 }
 .cool-tag-cloud .ctclime .ctcleft a:hover {  
-	background: url(images/lime-left.png) bottom left no-repeat!important;  
+	background: url() bottom left no-repeat!important;  
 }
 .cool-tag-cloud .ctclime .ctcright a:hover {  
-	background: url(images/lime-right.png) bottom left no-repeat!important;  
+	background: url() bottom left no-repeat!important;  
 }
 .cool-tag-cloud .ctclime .ctcleft a:hover:after {
-	background: url(images/lime-left.png) bottom right no-repeat!important; 
+	background: url() bottom right no-repeat!important; 
 }
 .cool-tag-cloud .ctclime .ctcright a:hover:after {
-	background: url(images/lime-right.png) bottom right no-repeat!important; 
+	background: url() bottom right no-repeat!important; 
 }
 .cool-tag-cloud .ctclime .ctcleft a:hover, .cool-tag-cloud .ctclime .ctcright a:hover ,
 .cool-tag-cloud .ctclime .ctcright a, .cool-tag-cloud .ctclime .ctcleft a,
@@ -381,28 +381,28 @@
 
 
 .cool-tag-cloud .ctcblack .ctcleft a {
-	background: url(images/black-left.png) no-repeat!important;  
+	background: url() no-repeat!important;  
 }
 .cool-tag-cloud .ctcblack .ctcright a {
-	background: url(images/black-right.png) no-repeat!important;  
+	background: url() no-repeat!important;  
 }
 .cool-tag-cloud  .ctcblack .ctcleft a:after { 
-	background: url(images/black-left.png) top right no-repeat!important; 
+	background: url() top right no-repeat!important; 
 }
 .cool-tag-cloud  .ctcblack .ctcright a:after { 
-	background: url(images/black-right.png) top right no-repeat!important; 
+	background: url() top right no-repeat!important; 
 }
 .cool-tag-cloud .ctcblack .ctcleft a:hover {  
-	background: url(images/black-left.png) bottom left no-repeat!important;  
+	background: url() bottom left no-repeat!important;  
 }
 .cool-tag-cloud .ctcblack .ctcright a:hover {  
-	background: url(images/black-right.png) bottom left no-repeat!important;  
+	background: url() bottom left no-repeat!important;  
 }
 .cool-tag-cloud .ctcblack .ctcleft a:hover:after {
-	background: url(images/black-left.png) bottom right no-repeat!important; 
+	background: url() bottom right no-repeat!important; 
 }
 .cool-tag-cloud .ctcblack .ctcright a:hover:after {
-	background: url(images/black-right.png) bottom right no-repeat!important; 
+	background: url() bottom right no-repeat!important; 
 }
 .cool-tag-cloud .ctcblack .ctcleft a:hover, .cool-tag-cloud .ctcblack .ctcright a:hover ,
 .cool-tag-cloud .ctcblack .ctcright a, .cool-tag-cloud .ctcblack .ctcleft a,
